@@ -7,9 +7,8 @@ This is the frontend code for Agnes (A full stack application built with C#, Nod
   example images here
 
 </p>
+
 ## Instructions to Run:
-
-
 
 ## Current Feature List
 1. 
